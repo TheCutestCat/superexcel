@@ -10,6 +10,4 @@ This demo draws inspiration from:
 - [Matrices](https://matrices.app/)
 - [Guru](https://www.getguru.ai/)
 
-<video controls>
-  <source src="./video/superexcel_example.mp4" type="video/mp4">
-</video>
+![SuperExcel Example](./video/superexcel_example.gif)
