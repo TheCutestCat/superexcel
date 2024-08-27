@@ -1,10 +1,9 @@
 import streamlit as st
 import pandas as pd
-import time 
 from PromptsAndClasses.DynamicDataFormat import create_pydantic_class,DataExtractPrompt
 from utils import openai_wrapper
 from SearchResponse import extract_info_from_webpage,process_dataframe_parallel
-# 创建一个示例DataFrame
+
 @st.cache_data
 def get_initial_data():
     # 示例数据

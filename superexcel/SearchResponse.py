@@ -1,7 +1,6 @@
 from utils import extract_core_content,jinahtml2string
 # born date, height, weight, nationality, club, position, salary, market value, 
 from duckduckgo_search import DDGS
-from pprint import pprint
 from utils import openai_wrapper
 from PromptsAndClasses.DynamicDataFormat import create_pydantic_class,DataExtractPrompt
 import concurrent.futures
