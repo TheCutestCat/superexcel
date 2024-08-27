@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "superexcel/main.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "superexcel/main.py"
+      }
+    ]
+  }
