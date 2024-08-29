@@ -10,4 +10,4 @@ This demo draws inspiration from:
 - [Matrices](https://matrices.app/)
 - [Guru](https://www.getguru.ai/)
 
-![SuperExcel Example](./video/superexcel_example.gif)
+![SuperExcel Example](./video/superexcel_example_spedup.gif)
